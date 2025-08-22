@@ -1,0 +1,112 @@
+Reserve Bank of Australia – AI Policy
+1. Key Requirements
+Staff may only use bank-approved AI tools in the performance of their duties.
+
+All use of AI must comply with the Bank’s Code of Conduct, data security policies, Privacy Act 1988, and other applicable legislation or prudential requirements.
+
+Staff must not input or disclose confidential, market-sensitive, or personal information into AI systems unless explicitly authorised.
+
+AI outputs must always be subject to human review and judgment before being used in analysis, reporting, or decision-making.
+
+The use of AI must reflect the principles of transparency, accountability, fairness, security, and responsible innovation.
+
+2. Purpose
+The purpose of this policy is to provide a clear framework for the responsible adoption and use of Artificial Intelligence (AI) systems within the Reserve Bank of Australia. The policy supports the Bank’s mandate to foster monetary stability, full employment, the prosperity and welfare of the people of Australia, and a safe and efficient payments system, while ensuring:
+
+Ethical, lawful, and secure use of AI;
+
+Staff confidence in engaging with AI tools;
+
+Protection of sensitive financial, economic, and personal data;
+
+Mitigation of reputational, legal, and operational risks.
+
+3. Application
+This policy applies to:
+
+All RBA staff, contractors, consultants, and secondees who have access to, or utilise, AI systems provided or approved by the Bank.
+
+All AI-related projects, whether developed in-house, acquired from third parties, or accessed via cloud-based tools.
+
+Any business processes that incorporate AI for research, analysis, decision support, or operational efficiency.
+
+4. Compliance
+Compliance with this policy is mandatory.
+
+Non-compliance may result in disciplinary action, including restricted access to digital systems, formal investigation, or other measures as appropriate.
+
+Use of AI must remain consistent with the Bank’s responsibilities under the Reserve Bank Act 1959, the Public Governance, Performance and Accountability Act 2013, and associated regulatory guidance.
+
+Regular audits and assurance reviews will be undertaken to assess conformity with this policy.
+
+5. Policy Objectives
+The AI Policy seeks to:
+
+Ensure AI is used responsibly, in alignment with the Bank’s mission and statutory obligations.
+
+Safeguard the integrity, accuracy, and confidentiality of information processed with AI.
+
+Provide staff with structured support and clarity on how to engage with emerging AI tools.
+
+Enable innovation and efficiency while managing operational and reputational risks.
+
+Foster trust and transparency in the Bank’s use of AI technologies, internally and externally.
+
+6. Policy Components
+The policy is structured around six core components:
+
+a. Governance and Oversight
+
+Establishment of an AI Working Group to advise and monitor use cases.
+
+Oversight by the Bank’s Risk Management and Compliance divisions.
+
+b. Ethical and Responsible Use
+
+Alignment with the Australian Government’s AI Ethics Principles, including fairness, privacy protection, accountability, and human oversight.
+
+Clear prohibition on misuse (e.g., generating misleading outputs, automating sensitive decisions without approval).
+
+c. Data Handling and Security
+
+All data input to AI tools must comply with RBA data classification standards.
+
+Strict prohibition on feeding classified, confidential, or market-sensitive data into unvetted or external AI applications.
+
+d. Risk Management
+
+All AI-related projects must undergo risk assessment before implementation.
+
+Continuous monitoring for bias, cybersecurity threats, and systemic risks.
+
+e. Human Accountability
+
+AI may augment but never replace human responsibility and professional judgment.
+
+Final authority rests with RBA employees and governance processes.
+
+f. Training and Capability Building
+
+Provision of AI awareness and responsible use training for all staff.
+
+Continuous professional development to ensure staff remain capable of evaluating AI-generated insights.
+
+7. Policy Management
+The Chief Information Officer (CIO), in collaboration with the Chief Risk Officer (CRO), has primary responsibility for maintaining this policy.
+
+Policy will be reviewed annually, or earlier if dictated by changes in legislation, technology, or business requirements.
+
+Updates will be endorsed by the Executive Committee and communicated internally.
+
+8. Communication
+This policy will be accessible through the staff intranet and onboarding materials.
+
+Targeted training sessions and workshops will ensure staff readiness and awareness.
+
+Regular updates will be given through:
+
+Internal newsletters and briefings,
+
+Mandatory e-learning modules,
+
+Manager-led team discussions for operational integration.
