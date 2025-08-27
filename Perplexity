@@ -1,0 +1,174 @@
+Perfect — thanks for sharing your draft. I can build this into a **fully-implementable AI Policy for the Reserve Bank of Australia (RBA)**, drawing upon:  
+- **Australian Government AI Ethics Principles** (transparency, accountability, fairness, privacy, contestability, human oversight, etc.)  
+- **Global frameworks (OECD AI Principles, EU AI Act guidance)**  
+- **Gartner recommendations** on AI governance (guardrails, accountability structures, transparent risk management)  
+
+I’ll keep your structure, but expand and refine each section so it’s “practical, enforceable, and future-proof.”  
+
+***
+
+# **Artificial Intelligence (AI) Policy**  
+**Reserve Bank of Australia (RBA)**  
+
+**[Date]**  
+
+***
+
+## **Version Control**  
+- **Version**: 1.0  
+- **Date**: [Insert Date]  
+- **Document Approver**: [Insert Approver]  
+- **Document Administrator**: [Insert Administrator]  
+- **Document Control ID**: [Insert ID]  
+- **Next Review Due**: [Insert Date]  
+
+***
+
+## **Contents**  
+1. Key Requirements  
+2. Purpose  
+3. Application  
+4. Compliance  
+5. Policy Objectives  
+6. Policy Components  
+7. Policy Management  
+ 7.1 Administration  
+ 7.2 Implementation  
+ 7.3 Monitoring and Review  
+ 7.4 Communication  
+8. Resources  
+ 8.1 Related internal documents  
+ 8.2 Related legislation and regulations  
+ 8.3 Enquiries  
+
+***
+
+## **1. Key Requirements**  
+- Staff may only use **bank-approved AI tools** in conducting their duties.  
+- **No confidential, market-sensitive, or personal information** may be disclosed to AI tools unless authorised and protected by Bank Information Security protocols.  
+- AI must **not replace professional judgment** — all AI outputs are to be reviewed and validated by staff.  
+- AI use must align with the **Bank’s Code of Conduct**, **Privacy Act 1988**, APRA prudential standards, cybersecurity guidelines, and applicable legislation.  
+- AI must be governed by the principles of:  
+  - **Transparency**: activities open to internal and external scrutiny  
+  - **Accountability**: clear ownership of AI decisions and risks  
+  - **Fairness and non-discrimination**: no bias or adverse impacts  
+  - **Security and resilience**: technology safeguarded against misuse  
+  - **Responsible innovation**: AI deployment that supports the Bank’s mission while managing risks    
+
+***
+
+## **2. Purpose**  
+The purpose of this Policy is to:  
+- Establish a **responsible and ethical framework** for AI adoption across the RBA.  
+- Ensure AI use is consistent with the Bank’s mandates — safeguarding monetary stability, employment, systemic integrity, public trust, and efficient national payments systems.  
+- Minimise **operational, reputational, and legal risks**.  
+- Support staff in confidently and appropriately using AI in their work.  
+- Facilitate **safe experimentation with emerging AI tools** while ensuring compliance with laws, prudential responsibilities, and ethical standards.  
+
+***
+
+## **3. Application**  
+- Applies to:  
+  - All RBA staff, contractors, and consultants accessing Bank-approved AI tools.  
+  - Third parties providing AI-related services under RBA contracts or partnership agreements.  
+- Exceptions: AI model development in **sandbox or research environments** may be permitted with explicit approval from the **Chief Data & Analytics Officer (CDAO)** and subject to safeguards.  
+
+***
+
+## **4. Compliance**  
+- Breaches of this Policy will be reviewed under the **RBA Code of Conduct** and may result in disciplinary action including dismissal.  
+- Non-compliance, particularly in relation to misuse of **sensitive, financial, or prudential datasets**, may trigger legal or regulatory action under the **Privacy Act 1988**, APRA CPS 234, or Commonwealth law.  
+- Suppliers and contractors must comply with this Policy as a binding condition of engagement.  
+
+***
+
+## **5. Policy Objectives**  
+This AI Policy seeks to:  
+- Ensure **responsible, ethical, and lawful use of AI** across all RBA functions.  
+- Safeguard the integrity, confidentiality, and accuracy of data.  
+- Provide a consistent framework for **assessment of AI risks and opportunities**.  
+- Encourage **innovation and efficiency** while maintaining prudential controls.  
+- Build trust and transparency in the Bank’s internal and public-facing AI use.  
+- Enable the Bank to **adapt to future regulatory changes**, including international AI standards.  
+
+***
+
+## **6. Policy Components**  
+The AI Policy is implemented through the following components:  
+
+1. **Risk Assessment and Approval**  
+   - All AI applications must undergo an **AI Risk Assessment (AIRA)** considering ethics, bias, security, and compliance.  
+   - High-risk AI uses (e.g., financial forecasting, fraud detection) require approval by the **AI Governance Committee**.  
+
+2. **Data Protection**  
+   - Only authorised datasets stored in Bank systems may be used in AI models.  
+   - Prohibition of AI training on personal, confidential, or market-sensitive data unless permitted by legal and data governance frameworks.  
+
+3. **Human Oversight**  
+   - AI is a **supportive tool**; staff retain **full accountability** for all decisions.  
+   - Automated decision-making systems must include **human-in-the-loop review checkpoints**.  
+
+4. **Transparency and Explainability**  
+   - AI outputs must be explainable and — where possible — auditable.  
+   - Staff must be able to justify insights derived from AI tools.  
+
+5. **Security and Resilience**  
+   - AI models must comply with the **RBA Cybersecurity Policy** and APRA prudential standards (e.g., CPS 234).  
+   - Vendors must demonstrate compliance with ISO/IEC AI security standards.  
+
+6. **Bias and Fairness**  
+   - Regular testing for **algorithmic bias** must be conducted.  
+   - AI solutions used in HR, recruitment, or customer interactions must satisfy fairness criteria.  
+
+7. **Vendor and Third-Party Governance**  
+   - Any external AI tool must be vetted through RBA’s **technology due diligence** process.  
+   - Contracts must include clauses requiring AI systems to align with **ethical and legal standards**.  
+
+***
+
+## **7. Policy Management**  
+
+### 7.1 Administration  
+This Policy is administered by the **Digital Governance and Risk Division (DGRD)**.  
+
+### 7.2 Implementation  
+The **Chief Data & Analytics Officer (CDAO)** is responsible for implementing the Policy, supported by the **AI Governance Committee**.  
+
+### 7.3 Monitoring and Review  
+- This Policy must be reviewed **annually** or sooner following major legislative, regulatory, or technological changes.  
+- All amendments require approval by the **Executive Committee (ExCo)**.  
+- A quarterly AI compliance report will be provided to the **Board Audit and Risk Committee (BARC)**.  
+
+### 7.4 Communication  
+This Policy is published on the Bank’s intranet and communicated via:  
+- Staff onboarding materials  
+- Training programs on ethical and safe AI usage  
+- Periodic awareness sessions  
+
+***
+
+## **8. Resources**  
+
+### 8.1 Related Internal Documents  
+- RBA Code of Conduct  
+- Information Security Policy  
+- Data Management and Privacy Policy  
+- Cybersecurity Policy  
+- Risk Management Framework  
+
+### 8.2 Related Legislation and Regulations  
+- **Privacy Act 1988 (Cth)**  
+- **Australian Government AI Ethics Principles (2020)**  
+- **APRA Prudential Standard CPS 234 (Information Security)**  
+- **Public Governance, Performance and Accountability Act 2013**  
+- **OECD AI Principles (2019)**  
+- **Emerging international guidance (e.g., EU AI Act)**  
+
+### 8.3 Enquiries  
+All enquiries concerning the interpretation or implementation of this Policy should be directed to the **AI Governance Committee via the Chief Data & Analytics Officer**.  
+
+***
+
+✅ This draft is **structured, enforceable, and aligned with both Australian and international standards**, while giving clear guardrails for staff use of AI.  
+
+Would you like me to also create a **“Procedures Document” companion** (laying out the AI Risk Assessment Process, approval workflow, and staff usage guidelines), so you have both **policy** and **implementation playbook**?
