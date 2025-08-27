@@ -1,0 +1,127 @@
+1. Key Requirements
+Bank-Approved Tools: Staff may only use AI tools and platforms that have been explicitly approved and provisioned by the Bank's IT and governance teams. This includes both commercial and open-source models, which must undergo a formal vetting process to ensure they meet the Bank's standards for security, data privacy, and ethical use. Unauthorised use of any AI tool, including public-facing generative AI, is strictly prohibited to prevent data leakage and exposure to unvetted systems.
+
+Data Security and Privacy: All use of AI must strictly comply with the Bank’s Code of Conduct, internal data security classifications, the Privacy Act 1988 (Cth), and all other applicable legislation or prudential requirements, including those from APRA. Staff must not input or disclose confidential, market-sensitive, or personal information into any AI system unless explicitly authorised through an approved and registered use case. This is particularly critical for models where data may be used for retraining or is stored on third-party servers.
+
+Human Oversight: AI outputs and recommendations must always be subject to human review, verification, and judgment before being used in analysis, reporting, or decision-making. The level of human oversight required will be commensurate with the risk level of the AI application. For instance, a low-risk task like summarising a public document may require a quick review, whereas a high-risk application like a credit risk model or a decision-support system must have a detailed and documented human-in-the-loop process. No high-risk or critical decisions shall be fully automated without human intervention and final sign-off.
+
+Guiding Principles: The development and use of AI must consistently reflect and be guided by the principles of human benefit, fairness, accountability, transparency, security, reliability, contestability, and responsible innovation. These principles are core to the RBA's mission and form the foundation of our AI governance framework.
+
+2. Purpose
+The purpose of this policy is to provide a clear and comprehensive framework for the responsible adoption and use of AI systems within the Reserve Bank of Australia. The policy is designed to support the Bank’s core mandate to foster monetary stability, full employment, the prosperity and welfare of the people of Australia, and a safe and efficient payments system. It achieves this by ensuring:
+
+Ethical and Secure Use: The ethical, lawful, and secure deployment of AI is a prerequisite for its use. This policy ensures that all AI activities are conducted with integrity and in full compliance with the law, protecting the Bank's reputation and its stakeholders.
+
+Staff Empowerment and Confidence: Staff are provided with the necessary guidance, tools, and training to engage with approved AI technologies confidently and competently. This fosters a culture of responsible innovation and allows employees to leverage AI to enhance their productivity and analytical capabilities.
+
+Data Protection: Sensitive financial, economic, and personal data is rigorously protected from unauthorised access or disclosure. This policy establishes clear guardrails to prevent data leakage and ensure that all data is handled in a manner that maintains its confidentiality and integrity.
+
+Risk Mitigation: Reputational, legal, operational, and financial risks associated with AI adoption are systematically identified, assessed, and mitigated. This proactive approach allows the Bank to harness the benefits of AI while effectively managing its inherent complexities and uncertainties.
+
+3. Application
+This policy applies to all RBA employees, contractors, consultants, and third-party vendors who develop, procure, or use AI systems on behalf of the Bank. No exceptions apply without explicit, documented approval from the Policy Administrator and relevant stakeholders, including the AI Governance Committee. This includes any use of AI tools for RBA-related work, regardless of whether the tools are hosted on Bank systems or in the cloud.
+
+4. Compliance
+Non-compliance with this policy by any party will be treated as a serious breach of the Bank’s Code of Conduct.
+
+The Bank views breaches of its policies seriously. Breaches of this policy and any subsidiary policies will be managed in accordance with the Code of Conduct or relevant laws, to the extent they apply. This may include disciplinary action up to and including termination of employment or contract, particularly in situations involving serious breaches related to the transfer of funds, sensitive data, or control systems. In cases where a breach results in a financial or reputational loss to the Bank, legal and civil penalties may also apply.
+
+5. Policy Objectives
+The AI Policy seeks to:
+
+Strategic Alignment: Ensure that the use of AI is responsibly integrated and aligned with the Bank’s strategic objectives and statutory obligations. This involves linking AI use cases directly to the Bank's mission and ensuring they support key functions such as monetary policy analysis, financial stability monitoring, and the operation of the payments system.
+
+Information Integrity: Safeguard the integrity, accuracy, and confidentiality of all information processed with AI systems. This includes ensuring that AI-generated content is accurate and free from "hallucinations" or factual errors, and that the provenance of data is always clear.
+
+Clarity and Support: Provide clear, structured support and guidance to staff on how to safely and effectively engage with emerging AI tools. By demystifying AI and providing clear operational procedures, the policy reduces confusion and encourages staff to use these powerful tools correctly.
+
+Innovation and Risk Management: Enable innovation and efficiency gains while proactively managing operational, security, and reputational risks. The policy strikes a balance between encouraging the exploration of new AI capabilities and establishing a robust governance framework to prevent harm.
+
+Public Trust: Foster public trust and transparency in the Bank’s use of AI technologies, both internally and externally. The RBA's reputation is built on trust, and this policy is a public commitment to using AI in a manner that is fair, ethical, and accountable to the Australian people.
+
+6. Policy Components
+6.1. Ethical Principles for AI
+All AI systems and use cases must be designed and implemented to uphold the following principles, which are consistent with the Australian Government's AI Ethics Framework:
+
+Human Benefit: AI systems should serve the prosperity and welfare of the Australian people, delivering clear, demonstrable benefits that are consistent with the RBA's mandate. For example, an AI tool used to enhance fraud detection in the payments system directly serves the public interest.
+
+Fairness: AI systems must be designed to avoid and mitigate bias, ensuring that decisions and outcomes are fair, non-discriminatory, and equitable. This requires careful consideration of training data to prevent perpetuation of existing biases and regular audits of model outputs to ensure fairness across all demographic groups.
+
+Privacy and Security: AI systems must adhere to the Bank's data governance standards, ensuring the privacy and security of data, especially personal and confidential information. This includes implementing robust access controls, encryption, and anonymisation techniques.
+
+Transparency and Explainability: The purpose, function, and decision-making processes of AI systems should be understandable to relevant stakeholders, including staff, and where appropriate, the public. The policy requires that 'black box' models are avoided where possible, and that where they are necessary, a clear explanation of their outputs can be provided.
+
+Accountability: Clear lines of accountability must be established for the development, deployment, and use of every AI system. Humans remain ultimately accountable for all decisions, even those supported by AI. The policy requires a named individual or committee to be responsible for each AI system throughout its lifecycle.
+
+Contestability: Individuals affected by a decision made or informed by an AI system must have the ability to challenge that decision and seek human review. This is particularly important for automated decisions affecting staff or the public.
+
+Reliability and Safety: AI systems must be reliable and safe, and their performance should be tested and monitored continuously to prevent unintended harm. This includes stress-testing models for robustness and resilience in the face of unexpected data or system shocks.
+
+6.2. Data Governance and Security
+Data Classification: All data used in AI systems must be classified according to the Bank's Data Classification Framework. Only data explicitly approved for the specific AI use case may be used. This prevents sensitive data from being used in models that are not designed to handle it.
+
+Data Anonymisation: Personal and sensitive data must be anonymised or de-identified wherever possible before being used in AI models, particularly for training purposes. This is a critical step in maintaining privacy and reducing the risk of re-identification.
+
+Third-Party Data: The use of any third-party or public data sets for training AI models must undergo a rigorous legal and security review to ensure compliance with intellectual property and licensing obligations. This prevents the Bank from inadvertently using copyrighted material or data with restrictive usage terms.
+
+Data Lineage: A complete record of data sources and transformations must be maintained for all AI models to ensure transparency and auditability. This provides a clear audit trail for every AI-driven decision and is essential for troubleshooting and risk management.
+
+6.3. Risk Management and Oversight
+Risk-Based Approach: All AI initiatives will be subject to a risk assessment to determine the level of governance and oversight required, based on factors such as: the potential for financial or reputational harm; the sensitivity of the data used; and the criticality of the decision-making process being supported by AI. This allows for a flexible yet robust approach, where governance is proportional to the risk involved.
+
+Incident Response: Clear processes must be in place for identifying, reporting, and responding to AI system failures, breaches, or unintended outcomes. This includes a pre-defined escalation path and a plan for quickly containing and remediating any issues.
+
+Continuous Monitoring: Deployed AI models must be continuously monitored for performance, accuracy, and signs of 'model drift' or data quality issues. This ongoing monitoring ensures that models remain relevant and accurate over time, and that their performance does not degrade without being detected.
+
+6.4. Accountability and Human-in-the-Loop
+Designated Ownership: Each AI system, whether developed internally or procured, must have a designated 'owner' from a business unit who is accountable for its performance, risk, and compliance. This ownership is crucial for ensuring that someone is always responsible for the system's outcomes.
+
+Human Oversight: AI systems must be designed with meaningful human oversight to ensure that human judgment can override or intervene in automated decisions. The policy requires clear documentation on where and when human intervention is required, and what the process for that intervention looks like.
+
+6.5. Transparency and Explainability
+Documentation: All AI models must be accompanied by comprehensive documentation that explains their purpose, design, data sources, limitations, and how they were validated. This documentation must be accessible to all relevant stakeholders and must be updated throughout the model's lifecycle.
+
+Communication: Where AI is used to support a decision that affects external stakeholders, the role of AI in that decision must be communicated appropriately and clearly. This builds trust by making it clear when and how AI is being used.
+
+6.6. Procurement and Third-Party AI
+Due Diligence: All third-party AI providers and their solutions must undergo a thorough due diligence process, with a focus on their governance, security practices, data handling, and compliance with Australian regulatory requirements. This is critical to ensure that external partners meet the RBA's high standards.
+
+Contractual Controls: Contracts with AI vendors must include clauses that ensure the Bank's ability to audit the AI system, understand its data flows, and maintain control over its intellectual property and data. This protects the Bank from vendor lock-in and ensures compliance.
+
+6.7. Staff Training and Culture
+Mandatory Training: All staff who use or interact with AI systems must complete mandatory training on this policy, its principles, and safe usage guidelines. This training will be tailored to the staff member's role and the level of risk associated with their AI use.
+
+Literacy and Awareness: The Bank will foster a culture of AI literacy, encouraging staff to understand the potential and limitations of AI and to report any concerns. This includes workshops, seminars, and a dedicated internal forum for discussing AI-related topics.
+
+7. Policy Management
+7.1. Administration
+This Policy is administered by the Office of the Chief Data Officer (CDO) and the Chief Information Officer (CIO), in collaboration with the Risk Management and Legal departments. This joint administration ensures a holistic and comprehensive approach to AI governance.
+
+7.2. Implementation
+The Chief Data Officer (CDO) and Chief Information Officer (CIO) are jointly responsible for the implementation of this Policy, including the establishment of an internal AI Governance Committee and an AI use-case approval process. This committee will be responsible for reviewing and approving all new AI initiatives.
+
+7.3. Monitoring and review
+This Policy will be reviewed by the Policy Administrators at least annually, or more frequently if there is a major change in technology, legislation, or internal business requirements. All changes to the Policy must be approved by the Governor's Committee on Technology and Risk. This ensures that the policy remains relevant and effective in a rapidly changing environment.
+
+7.4. Communication
+This Policy will be published on the Bank’s internal intranet and communicated to all staff through an all-staff communication channel. Mandatory training will be a prerequisite for AI tool access, ensuring that all staff are aware of their responsibilities.
+
+8. Resources
+8.1. Related internal documents
+RBA Code of Conduct
+
+IT Security Policy
+
+Data Governance Policy
+
+Procurement Policy
+
+8.2. Related legislation
+Privacy Act 1988 (Cth)
+
+Australian Prudential Regulation Authority (APRA) Prudential Standards (e.g., CPS 234 - Information Security)
+
+Australian Securities and Investments Commission (ASIC) guidance on AI use
+
+8.3. Enquiries
+All enquiries regarding this policy should be directed to the Policy Administrator team at [email address] or via the designated internal help channel.
