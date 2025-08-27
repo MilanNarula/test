@@ -1,0 +1,79 @@
+Artificial Intelligence (AI) Policy
+
+
+[Date]
+
+ 
+Version Control	
+Version	1.0
+Date	[Date]
+
+Document Approver	[Document Approver]
+
+Document Administrator	[Document Administrator]
+
+Document Control ID	[Document Control ID]
+
+Date Next Review Due	[Date]
+
+ 
+Contents
+1.	Key Requirements	1
+2.	Purpose	1
+3.	Application	1
+4.	Compliance	1
+5.	Policy Objectives	1
+6.	Policy Components	2
+7.	Policy Management	2
+7.1	Administration	2
+7.2	Implementation	2
+7.3	Monitoring and review	2
+7.4	Communication	2
+8.	Resources	2
+8.1	Related internal documents	2
+8.2	Related legislation	2
+8.3	Enquiries	2
+
+
+ 
+1.	Key Requirements
+•	Staff may only use bank-approved AI tools in the performance of their duties.
+•	All use of AI must comply with the Bank’s Code of Conduct, data security policies, Privacy Act 1988, and other applicable legislation or prudential requirements.
+•	Staff must not input or disclose confidential, market-sensitive, or personal information into AI systems unless explicitly authorised.
+•	AI outputs must always be subject to human review and judgment before being used in analysis, reporting, or decision-making.
+The use of AI must reflect the principles of transparency, accountability, fairness, security, and responsible innovation.
+2.	Purpose
+The purpose of this policy is to provide a clear structure for the responsible adoption and use of AI systems within the Reserve Bank of Australia. The policy supports the Bank’s mandate to foster monetary stability, full employment, the prosperity and welfare of the people of Australia, and a safe and efficient payments system, while ensuring:
+•	Ethical, lawful, and secure use of AI;
+•	Staff confidence in engaging with AI tools;
+•	Protection of sensitive financial, economic, and personal data;
+•	Mitigation of reputational, legal, and operational risks.
+3.	Application
+This policy applies to [Who this policy applies to and if applicable, state details of exceptions].
+4.	Compliance
+
+Non-compliance with this policy by [Parties] will [result in…].
+The Bank views breaches of Bank policies seriously and breaches of this policy and any subsidiary policy will be treated in terms of the Code of Conduct or relevant laws to the extent they apply. This could include dismissal in situations involving serious breaches of policy, [particularly related to systems involving transfer of funds, sensitive data and control systems which enforce segregation of duties. Sensitive data includes personal information and data which the Bank has a legislative obligation to maintain as confidential].
+
+5.	Policy Objectives
+The AI Policy seeks to:
+•	Ensure AI is used responsibly, in alignment with the Bank’s mission and statutory obligations.
+•	Safeguard the integrity, accuracy, and confidentiality of information processed with AI.
+•	Provide staff with structured support and clarity on how to engage with emerging AI tools.
+•	Enable innovation and efficiency while managing operational and reputational risks.
+•	Foster trust and transparency in the Bank’s use of AI technologies, internally and externally.
+6.	Policy Components
+
+7.	Policy Management
+7.1	Administration
+This Policy is administered by [Department name].
+7.2	Implementation
+The [Position title of the staff member responsible for implementing the Policy] is responsible for the implementation of this Policy.
+7.3	Monitoring and review
+This Policy is reviewed by [Administrator department name] at least [Frequency of review] or more frequently if there is a major change. All changes to the Policy must be approved by [Position title or committee name that approves changes].
+7.4	Communication
+This Policy is [How this Policy is communicated. For example: ‘This Policy is published on the Bank’s intranet.’].
+8.	Resources
+8.1	Related internal documents
+
+8.2	Related legislation
