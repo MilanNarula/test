@@ -1,0 +1,247 @@
+Proposal Number	Date Requested	Project Title	Project Type	Summary	Benefits	Requested By	Requestor Department	Technology/Tools	Data Classification	Users	Use Case Type	Status
+1	21/07/2023	Approval for DSH to use OpenAI API for natural language processing	Enterprise-wide	The Data Science Hub seeks approval to use the OpenAI API for advanced text processing. This includes summarization, information extraction, and label generation on public documents, internal ‘General’ documents, and third-party content where permitted.	"• Allows DSH to explore the capabilities of SOA LLMs for research & information extraction.
+• Enable construction of custom datasets at scale from public data.
+•  Low cost access to SOA capability"	John Simon	Economic Research	OpenAI API	General	DSH	Proof of concept	In progress
+2	21/07/2023	Approval for Economic Research to use Generative AI	Business-specific	We propose using ChatGPT to structure or summarize research papers classified as ‘General’ for external seminars. Additionally, AI-powered literature review tools (e.g., Google Scholar, Elicit) will help identify and summarize public research papers. No Bank data will be shared, and all AI-generated content will be fact-checked before use.	"• Increased efficiency and productivity 
+•Improved understanding of AI capability & implications
+•No risk to Bank data"	John Simon	Economic Research	ChatGPT, Google Scholar, Elicit, Consensus	Public	Economic Research	Proof of concept	Blocked
+3	24/07/2023	 Technology Threat Assessment: Adobe Photoshop AI Generative Fill	Business-specific	NI explored Adobe Photoshop’s beta AI tool for image editing, assessing its potential misuse in counterfeiting. The study examined whether watermarks on non-CDS banknote images could be easily removed. While the tool is popular among designers, it raises societal concerns about security and misuse.	"• Evaluates AI risks to banknote security
+• Supports currency integrity analysis"	Greg Dicinoski	Note Issue	Adobe Photoshop AI	General	Note Issue	Proof of concept	Completed 
+4	3/08/2023	Use of OpenAI to review of other central bank's meeting minutes 	Business-specific	Use of OpenAI to review of other central bank's meeting minutes. We are looking into how monetary policy decision making bodies take financial stability into account.	"• Speeds up policy research
+• Improves insight sharing across teams"	Eden Hatzvi	Financial Stability	OpenAI	Public	Financial Stability	Proof of concept	Completed 
+5	31/08/2023	Access to Bloom AI for Education	Business-specific	Public Education team seeks access to Bloom, an AI chatbot for teaching economics. No Bank data will be shared.	"• Informs on educational AI trends.
+• Understands tools used in schools.
+• No risk to Bank data."	Susan Slocum	Knowledge Management	Bloom.study	Public	Public Education team	Proof of concept	Cancelled
+6	4/10/2023	AI for Fraud Detection Experiment	Business-specific	Experiment with University of Sydney and BK to test AI/ML for detecting fraudulent transactions using synthetic data.	"• Improves fraud detection.
+• Explores legal and ethical issues.
+• Potential new services for BK."	David Mckenna	Banking	Python in offprem environment	Synthetic	Banking	Proof of concept	Completed
+7	20/11/2023	Enabling Copilot in Edge	Enterprise-wide	Activate Copilot in Edge to access Bing Chat Enterprise from any tab or PDF. Supports natural language queries and content generation.	"• Quick access to Bing Chat.
+• Contextual Q&A on pages.
+• Generates ideas and text."	Susan Slocum	Knowledge Management	Bing Chat	General	All Staff	Production 	Completed
+8	20/11/2023	Microsoft Security Copilot Trial	Business-specific	Trial Microsoft Security Copilot to enhance RBA’s security operations. It summarises data, provides investigation guidance, and analyses threats.	"• Faster incident response.
+• Tailored investigation guidance.
+• Empowers junior staff."	Scott Dickson	Information Technology	Microsoft Security Co-pilot	Restricted	IT - Security	Proof of concept	Approved
+9	9/02/2024	Testing Box AI for Collaboration	Enterprise-wide	Enable AI in RBA Box for a proof-of-concept. Box AI offers summarisation, insights, and metadata extraction within a collaboration platform.	"• Low-cost AI exploration.
+• Assess suitability for workflows.
+• Learn capabilities for integration."	David Mckenna	Knowledge Management	Box AI	General	Information platform team and Ad-hoc business users	Proof of concept	Completed
+10	7/03/2024	Activating Miro Assist for AI Features	Enterprise-wide	Miro Assist offers AI features like content generation, clustering, summarisation, and image editing. Enabling it enhances collaboration and speeds up workflows.	"• Adds advanced AI features.
+• Speeds up manual processes.
+• Improves productivity.
+• Safe, accessible AI tool."	David Mckenna	Knowledge Management	Miro Assist	General	All staff	Production 	Cancelled
+11	4/09/2024	Azure AI RAG Chatbot for Communications	Business-specific	Experiment using Azure AI Studio to build a RAG-based chatbot for communication templates. Pilot assesses feasibility and informs future AI lab initiatives.	"• Delivers faster, consistent templates.
+• Improves user experience.
+• Informs future AI planning."	Amir Zareie	Communications	Azure AI platform	General	Communications team and collaborators	Proof of concept	Completed
+12	8/11/2024	AI Action Plans in WTW Engagement Survey	Business-specific	Enable AI in WTW to generate action plans for managers based on survey questions. No employee responses or restricted data are used.	"• Provides tailored action plans.
+• Improves engagement strategies.
+• Enhances survey follow-up."	Richard Banks	People	Willis Towers Watson AI 	General	People leaders	Production 	Completed
+13	22/11/2024	AI-Generated Job Descriptions in Workday	Business-specific	Workday introduces AI-driven job description generation for job requisitions. It creates accurate, consistent starting points, reducing manual effort and errors.	"• Saves time and effort.
+• Ensures consistency and accuracy.
+• Reduces errors from unfamiliarity.
+• Attracts better candidates."	Binitha Joseph	People	Workday AI	Public	Many teams within the People department	Production 	Completed
+14	28/02/2025	AI Summaries for Confluence/Wiki Pages	Enterprise-wide	Use generative AI to summarise Confluence/Wiki pages for specific audiences. Summaries are published back to Confluence and reviewed by subject matter experts.	"• Improves team communication.
+• Leverages existing content.
+• Speeds up onboarding.
+• Enables future AI use cases."	Sammy Yousef	Information Technology	Atlassian AI or Local LLM 	Restricted	All staff	Production 	Approved
+15	28/04/2025	Workday Peakon Employee Voice	Business-specific	Workday Peakon uses AI-powered listening to capture employee sentiment and provide actionable insights. Features include attrition prediction, thematic clustering, and AI-generated comment summaries.	"• Identifies engagement drivers.
+• Predicts attrition risks.
+• Surfaces themes from feedback.
+• Enhances benchmarking and analysis."	Richard Banks	People	Peakon Employee Voice AI	Restricted	Managers, HR and Executive team	Production 	Completed
+16	1/05/2025	AI-Driven CORIE Industry Site	Business-specific	Create an industry-focused site and interactive guideline for CORIE execution using AI for design, language optimisation, summarisation, and visual elements.	"• Speeds up development and design.
+• Produces professional outputs.
+• Reduces need for external resources."	Ann Pan	Information Technology	SDXL, Flux, Midjourney, copilot/GPT 4/4.5	General	Ann Pan	Proof of concept	Completed
+17	2/05/2025	Linking Financing Sources to Projects	Business-specific	Use AI to analyse ASX-listed companies’ financial reports to link financing sources to specific projects. Enables sector-level insights into how firms fund investments, supporting monetary policy analysis.	"• Links financial market changes to real economy.
+• Unlocks insights from company-level reports.
+• Builds reusable infrastructure for future analysis."	William Maher	Domestic Markets	OPEN AI API	Public	Iris Chan, William Maher	Proof of concept	In progress
+18	28/05/2025	Box AI: Summarising ACCC Public Documents	Business-specific	Use AI to summarise publicly available ACCC site information and documents without storing queries. Helps monitor developments or changes in ACCC authorisations that may impact RBA’s work.	"• Tracks ACCC authorisation changes.
+• Summarises updates, reducing manual checks.
+• Extracts key details for quick understanding."	Gareth Lloyd	Information Technology	Box AI	Public	Anthea Faferko, Siva Majji, Gareth Lloyd	Production 	In progress
+19	30/05/2025	Transforming IT Support with NowAssist in ServiceNow	Business-specific	NowAssist introduces AI-driven capabilities for requesters, IT fulfillers, and developers. It enables conversational support, faster ticket resolution, and intelligent automation. For requesters, it provides instant answers and guided submissions. For IT staff, it automates summaries and knowledge retrieval. For developers, it accelerates code generation and flow design, reducing manual effort and improving delivery speed.	"Requesters:
+• Faster task completion.
+• Fewer tickets and clarification emails.
+• 24/7 assistance improves satisfaction.
+Fulfillers:
+• Faster resolution and documentation.
+• Fewer escalations and better onboarding.
+Developers:
+• Faster coding and fewer errors.
+• Improved quality and collaboration."	Michael Mcalister	Information Technology	Now Assist	Restricted	All staff	Production 	Approved
+20	1/07/2025	Integrating AI into ETAF for Smarter Test Automation	Business-specific	The Quality Engineering team plans to integrate AI into the existing BDD Test Automation Framework (ETAF) to improve test case generation. By leveraging AI APIs, the framework will generate manual test cases and business scenarios from user stories, accelerating test design and improving coverage.	"• Accelerates test design.
+• Reduces human error.
+• Provides intelligent coverage suggestions.
+• Scales for large requirements."	Jata Shankar	Enterprise Strategy and Change	Open Router / OPEN AI API	General	Business analysts and testers	Proof of concept	Approved
+21	1/07/2025	Empowering Managers with Workday’s Insights Hub	Business-specific	Workday is replacing the Team Performance dashboard with Manager Insights Hub, which provides automated insights and personalised recommendations for team development. It uses machine learning to suggest learning opportunities, roles, mentors, and connections, supporting engagement and retention.	"• Centralised access to key tasks.
+• Personalised recommendations for growth.
+• Supports career development and retention.
+• Accessible on mobile devices."	Amy Zhang	Information Technology	Workday AI	Public	Managers	Production 	Rejected
+22	8/07/2025	Improving Workday Search with AI-Powered Autocomplete	Enterprise-wide	Workday has enhanced its search autocomplete feature using AI, making it more intuitive and accurate. It now recognises natural language queries and returns relevant tasks and reports, even with misspellings or long-form queries, improving navigation and user experience.	"• Eliminates need for exact keyword matches.
+• Accurate results despite misspellings.
+• Recognises natural language queries.
+• Improves search speed and performance."	Binitha Joseph	Information Technology	Workday AI	Public	All staff	Production 	Approved
+23	8/07/2025	Box AI: Enhancing Securitisation Support with Intelligent Search	Business-specific	FM Business Operations proposes an intelligent search solution to unify fragmented information sources (TRIM, emails, Confluence, external sites) for securitisation-related queries. This will streamline access, reduce manual effort, and improve response accuracy.	"• Reduces investigation time.
+• Accelerates onboarding.
+• Improves efficiency through unified knowledge access.
+• Scalable for other FM systems."	Rashi Chandra	Domestic Markets	Box AI	Restricted	FMBO - DM 	Production 	In progress
+24	14/07/2025	Using AI to Streamline ASX 200 Financial Report Analysis	Business-specific	DM-SMS plans to use AI to automate analysis of ASX 200 companies’ financial reports, reducing manual review of hundreds of pages each reporting season. This initiative could save 24 FTE per semi-annual cycle and introduce retrieval-augmented generation (RAG) for the first time at the Bank.	"• Saves ~24 FTE per reporting cycle.
+• Introduces RAG for advanced analytics.
+• Creates scalable infrastructure for broader benefits."	William Maher	Domestic Markets	OPEN AI API	Public	Nick Eagles, Grace Elgie, Tekla Bastian, Will Maher	Proof of concept	Completed
+25	1/08/2025	Leveraging NotebookLM for AI-Driven Research in Penetration Testing	Business-specific	Google’s NotebookLM is an AI research assistant that processes videos, websites, and uploaded data to generate insights. It helps penetration testing teams stay updated on attack techniques, improve test coverage, and streamline documentation workflows using only public data sources.	"• Improves penetration testing quality.
+• Generates comprehensive test coverage from API docs.
+• Simplifies workflows for documentation and checklists."	Dugald Shaw	Information Technology	Google NotebookLM	Public	IT teams	Production 	Completed
+26	5/08/2025	Introducing RBAChat for Internal Research Discovery	Business-specific	RBAChat is an AI-powered tool that retrieves relevant internal notes and synthesizes responses to research questions via a chatbot interface. Hosted entirely on the Bank’s infrastructure, it uses open-source AI models to unlock institutional knowledge and accelerate research.	"• Surfaces hidden institutional knowledge.
+• Accelerates early-stage research.
+• Provides natural language interaction and follow-up capability."	Max Zang	Economic Research	CML	Restricted	Economic Group	Production 	In progress
+27	13/08/2025	Deploying Azure Local for Secure AI Workloads	Business-specific	IT is piloting “Azure Local,” an on-prem AI-ready host using NVIDIA GPU servers to enable safe application of large language models (LLMs) for data not cloud-approved. It offers production-grade security and supports experimentation with advanced AI techniques in a controlled environment.	"• Enables research with large LLMs for sensitive data.
+• Delivers fast, secure AI processing.
+• Provides a flexible environment for testing and fine-tuning models."	Deepak Sritharan	Information Technology	Azure, Nvidia GPU	Restricted	DSH and Data Tech	Pilot 	In progress
+28	25/08/2025	Box AI: Cash Distribution Regulation Consultation - Individual Submissions	Business-specific	"Box AI will be used to draw out key messages from submissions to a public consultation
+
+Drafting will be reviewed by management and the executive, staff will do spot checks to ensure key messages align with actual submissions."	Enables faster evaluation of responses to public consultation	Duke Cole	Note Issue	Box AI	General	Zan Fairweather, Anthea Faferko, Mia Pahljina 	Production 	In progress
+29	28/08/2025	Automating Broker & Analyst Report Distribution (BARS)	Business-specific	This project will modernise the Library’s BARS platform, which currently manages 34,000 broker and market reports annually through manual processes. The new system will automate ingestion, classification, storage, and distribution, featuring a searchable interface and AI-powered discovery to ensure timely delivery and improved research capabilities.	"• Eliminates 1 FTE of manual effort.
+• Faster, tailored access to reports via automation.
+• Advanced search and filtering for deep analysis.
+• Improved governance through centralised metadata."	Finn Lattimore	Economic Research	CML / AI Foundry	Restricted	Policy staff	Production 	Approved
+30	8/09/2025	AI for Job Benchmarking	Business-specific	Automate benchmarking by using AI to match external survey data with RBA job profiles. Replaces manual matching of thousands of roles.	"• Improves efficiency and accuracy.
+• Scales for large datasets.
+• Enhances transparency and reusability."	Kareshna Zamani	People	AI Foundry	Restricted	Analysts in people department	Proof of concept	Approved
+31	11/09/2025	Smart AI Defence for Email Security	Business-specific	Abnormal Security is a cloud-native email protection solution that uses advanced behavioural AI, NLP, and computer vision to stop sophisticated threats before they reach staff. Integrated with Office 365, it detects anomalies, blocks phishing, and automates threat response, reducing manual workload and improving cyber resilience.	"• Blocks fake and suspicious emails to prevent scams and data theft.
+• Detects phishing attacks to stop account takeovers.
+• Automates threat detection and response, cutting manual effort.
+• Adds an extra layer of smart protection aligned with government cyber safety standards."	Scott Dickson	Information Technology	Abnormal AI	Restricted	All staff	Production 	In progress
+32	12/09/2025	Mentimeter AI: Smarter, Faster Presentations	Enterprise-wide	Mentimeter AI helps create interactive presentations quickly and analyze audience responses in real time. It enhances engagement, reduces preparation time, and supports better decision-making during live sessions—all without storing any identifiable or restricted data.	"• Groups similar responses for deeper insights
+• Builds interactive presentations with AI suggestions
+• Cuts preparation time for meetings and workshops
+• Boosts audience participation and engagement
+• Organizes feedback in real time for clarity
+• Scales easily for small or large events"	Kaajal Ramdutt	Information Technology	Mentimeter AI	General	20 licenses for all staff	Production 	Approved
+33	24/09/2025	Benchmarking AI Tools for Policy Research	Business-specific	The Bank will benchmark three leading AI tools—ChatGPT, Claude, and Gemini—to assess their effectiveness in supporting policy research and analysis. This two-month trial combines hands-on testing by policy staff with a systematic benchmarking framework. The findings will inform the Bank’s AI strategy, clarify capability requirements, and guide decisions on future adoption of AI tools for productivity and policy work.	"• Confirms the potential of frontier AI tools to boost staff productivity.
+• Identifies which AI product best meets policy department needs.
+• Establishes a repeatable process for evaluating emerging AI products in a fast-moving technology landscape."	Callum Shaw	International 	ChatGPT, Claude, Gemini	Public	Callum Shaw, Nathan Guo, Connor Thrall, ER Person, EA/DM person	Proof of concept	Approved
+34	24/09/2025	Accelerating Document Creation with M365 Copilot	Business-specific	CoreMod seeks early access to M365 Copilot to streamline the creation of technical documents by merging, comparing, and analysing existing Bank standards and industry best practices. This initiative will reduce manual effort, ensure compliance with security and formatting standards, and leverage M365’s built-in protections. Delivered in two phases—GovTEAMS and RBA Production—it aims to significantly improve efficiency in producing design documents, test scenarios, and SOPs.	"• Cuts administrative effort by automating document comparison and formatting.
+• Speeds up production of design and migration documentation.
+• Maintains security through M365 Purview controls.
+• Validated feasibility through prior trial in RBA DEV."	Mitya Antoncic	Knowledge Management	M365 Copilot	Restricted	Arash Kakavand Hamidi, Elan Guttman, Urvashi Kumar	Pilot 	Completed
+35	24/09/2025	Box AI: Safety and Wellbeing Risk reviews	Business-specific	The Safety & Wellbeing team will trial Box AI to streamline reviews of 60+ safety documents over 18 months. The goal is to automate document assessment for audits and risk reviews, reduce manual effort, identify overlaps, and ensure compliance with legislative requirements. AI will help match documents to specific assessments and make it easier for non-experts to find the right guidance. A review is recommended by January 2026.	"• Saves time by reducing manual document reviews
+• Improves compliance with legislative requirements
+• Identifies overlaps to simplify documentation
+• Makes guidance accessible for non-experts
+• Supports ongoing audits and risk reviews efficiently"	Kwong Siu	People	Box AI	Restricted	Catherine Chaumont, James Nipperess, Vanessa Fleetwood, Saeid Daram	Production 	In progress
+36	24/09/2025	Box AI: Training environment for Box AI	Business-specific	Planned showcase of Box AI during the upcoming Generative AI training for PD at the Offsite on Monday, 29 September. A live demonstration will highlight Box AI’s capabilities and provide practical insights for participants. 	"• Demonstrates real-world application of Box AI
+• Enhances engagement and learning during training
+• Builds confidence in using AI tools effectively"	Andrew Coningham	Knowledge Management	Box AI	Restricted	Andrew Coningham	Production 	In progress
+37	2/10/2025	Box AI: Content refresh of Intranet Documentation	Business-specific	The People Department is updating intranet pages to deliver a simpler, more engaging experience for employees. High-priority content has been addressed by a professional copywriter, and we plan to use Box AI to apply the new RBA editorial style to remaining lower-priority content. All refreshed content will be reviewed by a dedicated Working Group before publication.	"• Improves clarity and usability for employees
+• Aligns content with RBA editorial standards
+• Speeds up updates using AI for lower-priority pages"	Helen Nguy	People	Box AI	Restricted	Helen Nguy	Production 	In progress
+38	2/10/2025	Gov AI Procurement Agent	Business-specific	"The Procurement team proposes a PoC for two AI agents:
+Process Agent
+This agent simplifies and streamlines the procurement process. Today, users often face challenges such as lengthy documentation, limited time, and uncertainty about who to contact. The Process Agent acts as an intelligent guide, helping users navigate the process in an easy-to-follow format. It can answer process-related questions, point to the correct policy and page, and identify the right contact for further assistance.
+Documentation Agent
+This agent creates high-quality procurement documentation by gathering the right context, selecting the correct template, and producing professional, market-ready documents quickly. It ensures consistency, accuracy, and adherence to organisational standards while freeing up valuable time for higher-priority work."	"Benefits of the Process Agent
+•	Provides instant answers to process-related questions
+•	Directs users to the correct policy and page
+•	Identifies the right contact for further assistance
+•	Guides users through complex procurement pathways
+•	Assesses panel suitability
+•	Connects users with the appropriate category lead
+Benefits of the Documentation Agent
+•	Gathers context to ensure accuracy and relevance
+•	Automatically identifies and applies the correct template
+•	Produces high-quality, market-ready documentation quickly
+•	Saves significant time and reduces manual effort
+•	Ensures consistency and adherence to organisational standards"	Faith James	Financial Administration	Gov AI	General	"Damien Phelan
+Faith James
+Michael O'Regan
+Laura Hunt
+Maria Camargo
+Jennifer Yang"	Proof of concept	In progress
+39	10/10/2025	Box AI: Tender Evaluation	Business-specific	Box AI can streamline the evaluation of Highly Restricted tenders by providing secure, intelligent document analysis and collaboration tools. It ensures compliance, speeds up decision-making, and reduces manual effort while maintaining strict confidentiality.	"Enhanced Security: Protect sensitive tender documents with enterprise
+-grade security.
+- Faster Evaluation: AI-driven insights reduce manual review time.
+- Improved Accuracy: Automated analysis minimises human error.
+- Compliance Ready: Maintains audit trails and regulatory standards.
+- Collaboration Simplified: Secure sharing and commenting for authorised teams."	Sandra Wilkinson	Note Issue	Box AI	Highly Restricted	Sandra Wilkinson, Mark Onikul	Production 	In progress
+40	14/10/2025	Box AI: RM Risk Committee Analytical Notes	Business-specific	FMPR seeks to use Box AI to quickly retrieve insights from past analytical notes, policy documents, and discussion papers provided to the ID-RM Risk Committee. This will help answer targeted questions about the Bank’s foreign portfolio, such as rationale for product decisions or associated risks. The goal is to confirm Box AI’s suitability for our business needs and explore additional AI features that could enhance efficiency and decision-making.	"Faster Information Retrieval: Quickly access relevant insights from large document sets.
+- Improved Decision Support: AI-driven answers to complex portfolio questions.
+- Enhanced Efficiency: Reduce manual searching and analysis time.
+- Scalable Solution: Potential to extend AI features for broader business needs.
+- Secure Access: Maintains confidentiality for Highly Restricted content."	Carlos Nochez	Financial Markets Group	Box AI	Highly Restricted	Shannon Engelhard, Vanessa Li	Production 	In progress
+41	24/10/2025	Box AI: TRIM Service Chatbox 	Enterprise-wide	We are testing AI search capabilities using TRIM user guides stored in Box to assess how a chatbot can answer common TRIM queries. This controlled experiment ensures no external data sharing and involves validation from Innovation Lab peers. Insights gained will inform the design of a TRIM chatbot pilot.	"• Faster, accurate responses to TRIM queries
+• Improved user experience through self-service
+• Validation ensures reliability and trust
+• Learnings shape future chatbot design"	Stacey Rukezo	Knowledge Management	Box AI	General	Stacey Rukezo, Andrew Purches	Production 	In progress
+42	24/10/2025	TRIM Chatbot: Smarter Support, Less Hassle	Enterprise-wide	The TRIM chatbot is a virtual assistant designed to simplify user interactions with the TRIM system. It reduces reliance on manual service desk support by providing quick, self-service answers to common queries. With features like FAQs, role-based access guidance, and troubleshooting, it improves efficiency and user experience while escalating complex issues to human support when needed.	"• Timely, accurate assistance while freeing service desk for high-value tasks.
+• Quick PoC setup using existing user guides and prior BoxAI trial.
+• Scalable approach that can be replicated for other services."	Stacey Rukezo	Knowledge Management	AI Foundry	General	All staff	Proof of concept	Approved
+43	28/10/2025	Google NotebookLM for podcasting	Business-specific	NotebookLM Plus is an AI research assistant that transforms multimedia sources—like YouTube, websites and uploaded files—into searchable, editable content. The Communications Department will trial it during a December 2025 hackathon focused on developing an RBA podcast using public content. This hands-on experience will help assess its value in streamlining workflows and enhancing public communication.	"Boosts staff confidence and speed in creating new content
+Offers a fast, practical trial through a content hackathon
+Helps assess long-term value for communication workflows
+Supports clearer public engagement on economic topics
+Builds future-ready skills and fosters innovation"	Edwina Munns	Communications	Google NotebookLM	General	10 Communications Department staff	Proof of concept	Approved
+44	28/10/2025	Analytics Centre of Excellence (ACE) Wiki Chatbot	Enterprise-wide	The Analytics Centre of Excellence (ACE) is introducing ACE-GPT, a smart tool that uses Retrieval Augmented Generation to help Bank staff quickly find answers to common analytical and technical issues. By tapping into existing ACE wiki content, users can resolve basic problems independently, reducing support ticket volumes and freeing up ACE analysts to focus on complex challenges.	"Speeds up troubleshooting with instant, reliable answers
+Reduces support ticket volumes for the ACE team
+Empowers staff to solve simple issues independently
+Allows ACE to focus on high-value, complex queries
+Improves over time with continuous wiki updates"	Lachlan McCahon and Kumaran Balaraju	Knowledge Management	AI Foundry	General	All staff	Proof of concept	Approved
+45	18/11/2025	Box AI: Compare Public Financial Stability Reports	Business-specific	FS is trialling Box AI to quickly retrieve and compare information from public Financial Stability Reports (FSRs). This tool will complement existing manual processes, ensuring accuracy through verification and avoiding policy risk. It’s designed to improve efficiency without replacing current checks.	"• Rapid access to key financial stability insights
+• Ability to compare multiple FSRs at once
+• Greater consistency across assessments
+• Supports informed reviews without adding policy risk"	Jessica Marnie	Financial Stability	Box AI	General	Nathan Guo	Production 	In progress
+46	18/11/2025	Box AI: PRC Public Guidance Material	Business-specific	"This is an internal trial to use Box AI to generate our public guidance on submitting securitisation data, eligibility criteria, previous market communications and/or potentially inbox questions and responses that would not be commercially sensitive. Information provided by AI could have two use-cases:
+1. To improve efficiency of BAU processing of queries
+2. For internal staff training on our policies
+
+Planned Controls: Box AI provide linked references to its generated responses and the team will fact-check accordingly. AI-generated responses will not be shared with external counterparties without staff review."	"• Faster, more accurate query responses
+• Improved efficiency in BAU processes
+• Supports onboarding and staff training
+• Maintains control through linked references and manual checks"	Joy Guo	Financial Markets Group	Box AI	Restricted	Joy Guo	Production 	In progress
+47	18/11/2025	Box AI: Procurement / Legal Contract Review	Business-specific	FMG is trialling large language models (LLMs) to automate contract analysis, extract key clauses, and flag risks in Procurement and Compliance activities. This initiative aims to improve operational efficiency and standardise processes, with human oversight ensuring accuracy and control.	"• Faster contract review and risk identification
+• Improved operational efficiency
+• Consistent and standardised analysis
+• Human oversight ensures reliability and compliance"	Nigel D'Souza	Financial Markets Group	Box AI	Restricted	Amanda Chen, Paul Brijesh, Michael Hayek	Production 	In progress
+48	15/12/2025	Procurement Agent	Business-specific	"Following a pilot in GovTeams, the procurement team is seeking to  Pilot their Process Agent and Document Agent on the Foundry Platform.
+
+The Process Agent acts as an intelligent guide, helping users navigate the process in an easy-to-follow format. It can answer process-related questions, point to the correct policy and page, and identify the right contact for further assistance.
+ 
+The Documentation Agent creates high-quality procurement documentation by gathering the right context, selecting the correct template, and producing professional, market-ready documents quickly."	"Reduce Procurement timelines, due to clearer advice and less reliance on Procurement team.
+Reduce Procurement effort from Business & Procurement teams by accelerating documentation writing."	Faith James	Financial Administration	Microsoft Foundry	Restricted	Procurement Team	Pilot 	Approved
+49	15/12/2025	An LLM-powered Copilot Agent integrated with Jira to improve risk quality and consistency	Business-specific	The Strategy and Change department has observed that risks across programs are often poorly written, making them hard to understand and act on. This lack of clarity reduces urgency, delays decisions, and increases costs by missing early resolution opportunities. An AI-powered Copilot integrated with Jira will help improve risk quality and consistency by reviewing entries, providing feedback, and generating program-level reports. Future enhancements include real-time guidance within Jira.	"• Improve risk clarity and quality by ~70% through AI-assisted assessment, rewriting, ensuring risks are well-articulated, consistent, and actionable.
+• Enhance stakeholder understanding and engagement, enabling earlier intervention and reducing the likelihood of escalation.
+• Enable proactive mitigation planning, reducing likelihood of high-impact issues and associated cost overruns and delivery delays."	Dan Gutman	Strategy and Change	Microsoft Foundry	General	PMs in Strategy and Change	Proof of concept	Blocked
+50	17/12/2025	Box AI: Project Acacia Submissions	Business-specific	Project Acacia is a research pilot involving industry and regulators to explore settlement in tokenised asset markets. Industry submissions will be securely stored in Box, enabling AI-driven summarisation and analysis. All AI outputs will be validated against original reports and reviewed by subject matter experts to ensure accuracy and quality before inclusion in the final project report.	• Enables faster, deeper analysis across all submissions• Improves efficiency by reducing manual review effort• Helps identify concepts and examples quickly• Supports informed decision-making with comprehensive insights	James McNaughton	Payments Policy	Box AI	Restricted	Shirley Huang, Elizabeth Kandelas, Jack Hillier, John Kenyon, Chris Thompson, Kylie Stewart	Production 	In progress
+51	18/12/2025	Workday - generate requested feedback with generative AI	Enterprise-wide	Workday uses Google Vertex AI to make giving feedback easier and more effective. Employees receive AI-powered guidance to write clear, actionable responses, reducing vague answers and unanswered requests. This feature improves communication and performance by helping staff provide meaningful feedback quickly and confidently.	"• Helps employees craft structured, actionable feedback.
+• Enhances communication and collaboration across teams.
+• Improves overall performance by driving meaningful conversations.
+• Saves time and reduces unanswered feedback requests."	Binitha Joseph	Information Technology	Workday AI	Restricted	All Staff	Production 	Under review
+52	18/12/2025	Workday - generate and revise learning content description	Enterprise-wide	Workday now offers Generative AI tools to condense, expand, or professionalise course descriptions, saving time and improving consistency. This feature ensures learning content is clear, engaging, and aligned in tone, boosting search accuracy and learner engagement. Available during creation or editing of digital and blended courses.	"• Saves time and reduces manual effort for administrators.
+• Improves quality and consistency of course descriptions.
+• Boosts learner engagement with clear, inviting summaries.
+• Enhances search and recommendation accuracy through well-crafted descriptions"	Binitha Joseph	Information Technology	Workday AI	Restricted	All Staff	Production 	Under review
+53	18/12/2025	Workday - Peakon content summaries	Enterprise-wide	Workday Peakon uses Generative AI to summarise large volumes of employee feedback into clear, actionable insights. After each survey, managers and senior leaders can quickly understand the organisation’s pulse without reading thousands of comments, enabling faster, smarter decisions.	"• Eliminates the need to review every comment
+• Surfaces key themes for strategic action
+• Saves time and boosts efficiency
+• Available on-demand or by scoring group for flexibility"	Binitha Joseph	Information Technology	Workday AI	Public	All Staff	Production 	Under review
+54	19/12/2025	AI Assistance Tool for Governance Board Papers	Enterprise-wide	"Departments spend significant time drafting papers for the Governance Board, which involves
+gathering data, structuring content, ensuring compliance with templates, and refining
+language for clarity and tone. This process is often manual, repetitive, and prone to delays
+due to multiple review cycles. There is potential to leverage AI to streamline this process by creating an AI tool which supports the review of board papers based on the guidelines provided by the
+Governance Board leveraging AI-powered tools (e.g., summarisation models, and compliance
+checkers) to automate key steps in the review process. AI can assist by:
+Ensuring adherence to governance templates and tone guidelines.
+Providing real-time suggestions for clarity, consistency, and compliance."	"Improved Consistency and Quality with uniform language tone and structure across all
+governance papers
+Reduced review time and number of revisions required for board papers
+Insights from past papers incorporated into future papers"	Rowena White	Future Hub	Microsoft Foundry	Restricted	Selected Staff in Secretary's Department	Proof of concept	Under review
+55	23/12/2025	Structured Evaluations on SmartConnect test outputs	Business-specific	SmartConnect’s current network and security testing is manual, isolated, and lacks centralized visibility, making Zscaler policy validation across multiple protocols slow and inefficient. The absence of structured reporting and trend analysis hinders compliance and risk management feedback loops. The proposed solution leverages Microsoft Foundry Bronze Hub to run structured evaluations on SmartConnect test outputs. Cucumber results will be exported as JSONL, uploaded to Foundry, and used to trigger Cloud Evaluation runs that generate dashboards for pass/fail rates, latency, and protocol coverage. This proof of concept demonstrates feasibility for centralized observability and sets the stage for future automation using Foundry Agents.	"Centralized dashboards in Microsoft Foundry for test outcomes and performance trends.
+Enhanced observability of protocol enforcement without the need to build custom reporting tools.
+Foundation for future automation, such as Foundry Agents for reporting and drift detection, without requiring CI/CD initially."	Dmitriy Yarkov	Strategy and Change	Microsoft Foundry	Restricted	Dmitriy Yarkov	Proof of concept	Approved
+56	29/12/2025	LLM assisted document generation for NPP code refresh	Business-specific	BK is refreshing NPP code under the A2A program and would like to leverage AI to document IBM ACE code, including inputs, outputs, logic, and dependencies. This approach will speed up story creation, improve developer understanding, and ensure comprehensive test coverage. Overall, it is expected to cut effort by 20–30% across development, analysis, and testing.	• Accelerates story creation and reduces planning time• Improves developer understanding of complex code• Ensures complete test coverage, including edge cases• Cuts overall effort by 20–30% across Dev, BA, and testing	Vivek Maheshwari	Information Technology	Microsoft Foundry	Restricted	Vivek Maheshwari, Kala Sriram, Har Roshan	Proof of concept	Under review
+57	9/01/2026	Accelerating Penetration Testing with AI Micro‑Agents	Business-specific	Current penetration testing at RBA is slow, manual, and inconsistent, consuming up to 35% of engagement time on repetitive tasks. We propose a secure Proof of Concept using AI micro‑agents in Foundry Bronze to automate busywork, standardise outputs, and accelerate delivery, while maintaining strict governance, security, and human oversight.	• Cut busywork: AI cleans/redacts sensitive details, organises notes, and drafts findings—saving ~40–60% of admin time.• Faster recon/OSINT: AI gathers, de‑duplicates, and summarises data—~30–50% quicker.• Consistent outputs: Standardised prompts and templates ensure clear, uniform findings.• Better early coverage: AI surfaces likely issues earlier—improving detection by ~20–30%.• Quicker reports: Drafts ready sooner—cutting report writing time by ~50%.• Safe by design: All work stays in Foundry Bronze with logging and human approvals.• Higher throughput: Deliver ~15–25% more engagements per quarter.• Reusable knowledge: Shared prompt library speeds onboarding and reduces one‑off effort.	Dilbarjit Soni	Information Technology	Microsoft Foundry	Highly Restricted	Dilbarjit Soni	Proof of concept	Under review
+58	22/01/2026	Interactive AI Tool based on current RITS Information facility	Business-specific	Accessing information in the RITS Information Facility is currently slow, manual and time‑consuming. The proposal introduces an interactive AI tool that allows users to ask questions and instantly retrieve the relevant RITS information. By streamlining navigation of a publicly accessible knowledge base, the tool aims to improve efficiency for internal teams and industry participants, while reinforcing the RBA’s position as an early and responsible adopter of AI in the public sector.	"• Faster, easier access to RITS information through natural‑language queries.
+• Reduces manual searching and improves productivity for internal and external users
+• Public information source means minimal data‑related risks.
+• Strengthens the Bank’s reputation as an early and meaningful adopter of AI."	Rohit Dudeja	Payments Settlements	Microsoft Foundry	Public	TBC	Proof of concept	Under review
+59	22/01/2026	Travel Management - Scout	Business-specific	CTM Scout is an AI‑enabled travel assistant that helps staff manage bookings quickly and easily within the CTM travel portal. It supports checking itineraries, issuing tickets, cancelling trips, and chatting directly with a travel consultant, all through a simple interface. The service uses secure, private AI models hosted in Australia and does not train on client or CTM data. With strong governance controls, remote shutdown capability, and no PII ingestion, Scout offers a safe, efficient solution to improve the staff travel experience	"• Easy‑to‑use interface for staff travellers.
+• Instant responses to travel queries and booking checks.
+• Ability to issue tickets or cancel trips within seconds.
+• Fast processing of refunds or conversion to credit
+• Secure AI environment with no use of client or CTM data for model training"	Deepa Benjamin	Information Technology	CTM Scout	Public	All Staff	Production 	Under review
+60	27/01/2026	Lexis Nexis AI for legal research	Business-specific	The Legal section plans to trial Lexis+ AI, an AI‑powered legal research tool integrated within the existing LexisNexis platform. The tool is designed to speed up research, surface relevant case law, and provide concise summaries using authoritative, curated legal sources. Because it draws only from trusted LexisNexis content, it reduces the risk of hallucinations common in general‑purpose AI tools. The four‑week trial aims to assess whether the tool can meaningfully improve research productivity while maintaining accuracy and professional standards.	• Faster access to relevant case law and commentary.• More consistent, high‑quality summaries based on authoritative sources.• Reduced manual effort, freeing time for higher‑value legal analysis.• Lower risk of AI inaccuracies due to use of curated LexisNexis content.• Helps the team compare outputs against Copilot and current manual research methods.	Natalie Soh	Legal Section	Lexis Nexis AI	General	Selected Staff in Legal Section	Proof of concept	Under review
