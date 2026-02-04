@@ -245,3 +245,60 @@ Foundation for future automation, such as Foundry Agents for reporting and drift
 • Fast processing of refunds or conversion to credit
 • Secure AI environment with no use of client or CTM data for model training"	Deepa Benjamin	Information Technology	CTM Scout	Public	All Staff	Production 	Under review
 60	27/01/2026	Lexis Nexis AI for legal research	Business-specific	The Legal section plans to trial Lexis+ AI, an AI‑powered legal research tool integrated within the existing LexisNexis platform. The tool is designed to speed up research, surface relevant case law, and provide concise summaries using authoritative, curated legal sources. Because it draws only from trusted LexisNexis content, it reduces the risk of hallucinations common in general‑purpose AI tools. The four‑week trial aims to assess whether the tool can meaningfully improve research productivity while maintaining accuracy and professional standards.	• Faster access to relevant case law and commentary.• More consistent, high‑quality summaries based on authoritative sources.• Reduced manual effort, freeing time for higher‑value legal analysis.• Lower risk of AI inaccuracies due to use of curated LexisNexis content.• Helps the team compare outputs against Copilot and current manual research methods.	Natalie Soh	Legal Section	Lexis Nexis AI	General	Selected Staff in Legal Section	Proof of concept	Under review
+
+
+
+
+Understanding the RICE-RBA Scoring Model
+
+The formula is structured as a ratio: Total Potential Value divided by Total Adjusted Cost.
+
+$$Score = \frac{\text{Value Pool (R \times I \times C)}}{\text{Adjusted Effort (E \times [1 + \frac{A}{2}])}} \times W$$
+
+1. The "Ambiguity Tax": Why $(1 + \frac{A}{2})$?
+
+The denominator represents the "Total Cost" of doing the project. In AI, the cost is not just how many hours a developer sits at a desk (Effort); it is also the risk that the technology won't work as expected (Ambiguity).
+
+The Logic of "1 +"
+
+We add 1 to ensure that Ambiguity acts as a multiplier (a tax) rather than a divisor.
+
+If we didn't have the "1", an Ambiguity score of 0.5 would actually make the denominator smaller, mathematically making the project look "cheaper" and inflating the score.
+
+By using 1 + ..., we ensure the "Effort" is always at least 100% of the estimate, and Ambiguity can only increase that cost.
+
+The Logic of "/ 2" (The Scaling Factor)
+
+We divide the Ambiguity score (1–5) by 2 to prevent technical risk from completely "nuking" the score of innovative projects.
+
+If Ambiguity is 1 (Low Risk): The multiplier is $1 + (1/2) = \mathbf{1.5x}$. The project is seen as 50% "harder" than the raw hours suggest to account for basic testing.
+
+If Ambiguity is 5 (High Risk): The multiplier is $1 + (5/2) = \mathbf{3.5x}$. The project is seen as 3.5 times "more expensive" because the chance of failure or rework is extremely high.
+
+The result: This math penalizes "Moonshots" that have high technical uncertainty unless their Impact and Reach are so massive that they overcome the 3.5x "Ambiguity Tax."
+
+2. How the Formula Works (Step-by-Step)
+
+Step A: Calculate the Value Pool ($R \times I \times C$)
+
+Reach (Who): How many staff or systems are affected? (1–5)
+
+Impact (How Much): Does this save 5 minutes a day or 5 hours a week? (1–5)
+
+Confidence (Certainty): Do we have the data? Is the API stable? (0.1–1.0)
+
+Result: This represents the "Gross Benefit" if everything goes perfectly.
+
+Step B: Calculate the Adjusted Effort
+
+Effort: The raw estimate of resources (1–12+).
+
+Apply the Ambiguity Tax: Multiply Effort by the risk factor $(1 + A/2)$.
+
+Result: This represents the "Realistic Cost" of the project, accounting for the "Culture of Failing" and technical hurdles.
+
+Step C: Apply the Strategic Multiplier ($W$)
+
+Finally, we multiply the whole result by the Strategic Weighting.
+
+This ensures that even if a "Productivity" tool and an "Operational Resilience" tool have the same math, the Resilience tool (RBA's core mission) will always float to the top of the list.
